@@ -1,0 +1,14 @@
+h1 {text-align: center}
+#first {color: red}
+#second {color: blue}
+#third {color: green}
+#fourth {font-size: 30px;}
+#fifth1 {font-size: 5px}
+#sixth {font-weight: bold;}
+#seventh {font-family: cursive;}
+#eigth {font-size: 30px; font-weight: bold; color: orange;}
+#fifth {text-align: center}
+.td {text-decoration: underline;}
+.td1 {text-decoration: aquamarine;}
+.multiple {font-size:30px; color:red; font-family:cursive;}
+#styledImage {border-style:dashed;border-color:orange; border-width:20px;}
